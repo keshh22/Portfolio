@@ -20,6 +20,15 @@ const projects = [
     github: "https://github.com/keshh22/Steganography",
     link: "https://imagesteganography.vercel.app/",
   },
+
+    {
+    name: "Football Tactical Analysis",
+    description:
+      "An application that converts camera footage clips from football games into a tactical map.",
+    github: "https://github.com/keshh22/FootyTacticalAnalysis",
+    link: "https://github.com/keshh22/FootyTacticalAnalysis",
+  },
+  
   {
     name: "AI Image Generator",
     description:
@@ -37,6 +46,8 @@ const projects = [
     github: "https://github.com/keshh22/PneumoniaMNIST",
     link: "https://github.com/keshh22/PneumoniaMNIST",
   },
+
+
   
   
 ]
