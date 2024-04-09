@@ -23,8 +23,8 @@ const projects = [
 
     {
     name: "Football Tactical Analysis",
-    description:
-      "An application that converts camera footage clips from football games into a tactical map.",
+    description: "An application that converts camera footage clips from football games into a tactical map.",
+    image: "/footytactics.png",
     github: "https://github.com/keshh22/FootyTacticalAnalysis",
     link: "https://github.com/keshh22/FootyTacticalAnalysis",
   },
