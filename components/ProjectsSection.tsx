@@ -28,6 +28,15 @@ const projects = [
     github: "https://github.com/keshh22/FootyTacticalAnalysis",
     link: "https://github.com/keshh22/FootyTacticalAnalysis",
   },
+
+  {
+    name: "Speech Recognition through Lip Motion Analysis",
+    description:
+      "This model seeks to decipher sequences of lip movements captured in video frames and translate them into meaningful spoken language or phonetic representations.",
+    image: "/pneumonia.png",
+    github: "https://github.com/keshh22/SpeechRecogMotion.git",
+    link: "https://github.com/keshh22/SpeechRecogMotion.git",
+  },
   
   {
     name: "AI Image Generator",
@@ -46,6 +55,7 @@ const projects = [
     github: "https://github.com/keshh22/PneumoniaMNIST",
     link: "https://github.com/keshh22/PneumoniaMNIST",
   },
+
 
 
   
