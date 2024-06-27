@@ -33,7 +33,7 @@ const projects = [
     name: "Speech Recognition through Lip Motion Analysis",
     description:
       "This model seeks to decipher sequences of lip movements captured in video frames and translate them into meaningful spoken language or phonetic representations.",
-    image: "/pneumonia.png",
+    image: "/speechrecogmotion.png",
     github: "https://github.com/keshh22/SpeechRecogMotion.git",
     link: "https://github.com/keshh22/SpeechRecogMotion.git",
   },
